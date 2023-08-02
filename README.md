@@ -1,1 +1,1 @@
-nextjs auth
+nextjs auth practices
